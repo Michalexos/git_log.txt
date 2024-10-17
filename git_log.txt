@@ -1,1 +1,1 @@
-git commit -m "< IDK, 7 > < Neviem roím to prvý krat>"
+git commit -m "< C7-1, 7 > < Neviem roím to prvý krat>"
